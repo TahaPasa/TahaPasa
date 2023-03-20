@@ -4,6 +4,6 @@
 - ✏️ I'm currently studying at Baskent University.
 
 ## My Top Langs:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaPasa&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaPasa&layout=compact&theme=tokyonight) 
 
 
