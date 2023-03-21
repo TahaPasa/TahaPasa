@@ -5,8 +5,8 @@
 - 📫 How to reach me: t.a.kocyigit@hotmail.com
 - ✏️ I'm currently studying at Baskent University.
 
-## 🌎 My Socaial Media
-<p align="left">
+## 🌎 My Social Media
+<p align="center">
         <a href="https://linkedin.com/in/tha-kcygt" target="blank">
         <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="tha_kcygt"/>
     </a>
