@@ -5,6 +5,7 @@
 - 📫 How to reach me: t.a.kocyigit@hotmail.com
 - ✏️ I'm currently studying at Baskent University.
 
+## 🛠 Languages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,py,cpp,c,kotlin,flutter,solidity" />
