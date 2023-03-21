@@ -6,4 +6,5 @@
 ## My Top Langs:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaPasa&layout=compact&theme=tokyonight) 
 
-
+## 📈 GitHub Stats
+![Utku's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TahaPasa&show_icons=true&theme=react)
