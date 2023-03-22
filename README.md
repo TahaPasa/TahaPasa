@@ -22,11 +22,11 @@
   </a>
 </p>
 
-
+<hr>
 <p align="left">
 <h3>Github Stats ⚡ 📈</h3>
 ![Taha's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TahaPasa&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaPasa&layout=compact&theme=tokyonight) 
 </p>
-
+<hr>
 
