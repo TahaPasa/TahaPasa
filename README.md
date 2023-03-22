@@ -7,6 +7,7 @@
 
 - ✏️ I'm currently studying at Baskent University.
 
+<p align="left"><img src="https://www.codewars.com/users/TahaPasa/badges/small"></p>
 <hr>
 
 ## 🌎 My Social Media
