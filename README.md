@@ -1,9 +1,13 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">, I'm Taha Alp Koçyiğit.</h1>
 <h2 align="center">AI & Android Developer | CS Student</h2>
 
-- 👀 I’m interested in Machine Learning and Artificial Intelligence.
-- 📫 How to reach me: t.a.kocyigit@hotmail.com
+- 👀🌱 I’m interested in and surveying ```Machine Learning``` , ```Artificial Intelligence```and ```Flutter```
+
+- 📫 How to reach me: <a href="mailto:t.a.kocyigit@hotmail.com"><img src="https://img.shields.io/badge/Mail_Me-1a2038?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 - ✏️ I'm currently studying at Baskent University.
+
+<br><p align="center"><img src="https://www.codewars.com/users/A713F3/badges/small"></p>
 
 ## 🌎 My Social Media
 <p align="center">
@@ -18,15 +22,16 @@
 ## 🛠 Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,cpp,c,kotlin,,tensorflow,flutter,firebase,solidity" />
+    <img src="https://skillicons.dev/icons?i=git,py,cpp,c,kotlin,tensorflow,flutter,firebase,solidity" />
   </a>
 </p>
 
 <hr>
 <p align="left">
 <h3>Github Stats ⚡ 📈</h3>
- ![Taha's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TahaPasa&show_icons=true&theme=react) 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaPasa&layout=compact&theme=tokyonight) 
+
+ ![Taha's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TahaPasa&show_icons=true&theme=tokyonight&line_height=20) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaPasa&layout=compact&theme=tokyonight&hide=cmake) 
 </p>
 <hr>
 
