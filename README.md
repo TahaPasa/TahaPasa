@@ -1,7 +1,7 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">, I'm Taha Alp Koçyiğit.</h1>
 <h2 align="center">AI & Android Developer | CS Student</h2>
 
-- 👀🌱 I’m interested in and surveying ```Machine Learning``` , ```Artificial Intelligence```and ```Flutter```
+- 👀🌱 I’m interested in and surveying ```Machine Learning``` , ```Artificial Intelligence```and ```Android Programming with Flutter```
 
 - 📫 How to reach me: <a href="mailto:t.a.kocyigit@hotmail.com"><img src="https://img.shields.io/badge/Mail_Me-1a2038?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
