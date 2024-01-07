@@ -3,7 +3,7 @@
 
 - 👀🌱 I’m interested in and surveying ```Machine Learning``` , ```Artificial Intelligence```and ```Android Programming with Flutter```
 
-- 📫 How to reach me: <a href="mailto:t.a.kocyigit@hotmail.com"><img src="https://img.shields.io/badge/Mail_Me-1a2038?style=for-the-badge&logo=gmail&logoColor=white"></a>
+- 📫 How to reach me: <a href="mailto:career.thakcygt@outlook.com"><img src="https://img.shields.io/badge/Mail_Me-1a2038?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 - ✏️ I'm currently studying at Baskent University.
 
