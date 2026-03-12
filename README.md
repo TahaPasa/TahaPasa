@@ -1,11 +1,11 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">, I'm Taha Alp Koçyiğit.</h1>
-<h2 align="center">AI & Android Developer | CS Student</h2>
+<h2 align="center">AI Developer | M.Sc. AI in Society</h2>
 
-- 👀🌱 I’m interested in and surveying ```Machine Learning``` , ```Artificial Intelligence```and ```Android Programming with Flutter```
+- 👀🌱 I’m interested in and surveying ```Machine Learning``` , ```Artificial Intelligence```
 
 - 📫 How to reach me: <a href="mailto:career.thakcygt@outlook.com"><img src="https://img.shields.io/badge/Mail_Me-1a2038?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-- ✏️ I'm currently studying at Baskent University.
+- ✏️ I'm currently studying at Technical University of Munich.
 
 <p align="left"><img src="https://www.codewars.com/users/TahaPasa/badges/small"></p>
 <hr>
